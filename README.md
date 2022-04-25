@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @ziskilis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kostens@bk.ru
+# Konstantin Muratidi
+![profile pic](/523226980.jpeg "Мое фото")
+***
+# Trainee frontend developer 
+***
+## Contact information:
+*Phone:* +7 913 048 88 41
+*E-mail:* kostens@bk.ru
+*Telegram:* @ziskilis
+***
+## Skills:
 
-<!---
-ziskilis/ziskilis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* HTML, CSS, JS
+* React JS + Redux
+* SASS/SCSS, TypeScript
+* SQL, PostgreSQL, Mongodb, Firebase
+* Webpack, Git, Jest
+* Jira, Git-flow, Scrum
+
+***
+## Languages:
+* English - B1
