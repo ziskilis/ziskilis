@@ -4,13 +4,13 @@
 # Frontend developer 
 ***
 ## Experience:
-* EPAM Systems Inc. Laboratory:*
+* EPAM Systems Inc. Laboratory:
 Working in a team on the key functionality of the project, fixing existing bugs, covering the code with unit tests, working with git.
 ***
 ## Contact information:
-*Phone:* +7 913 048 88 41
-*E-mail:* kostens@bk.ru
-*Telegram:* @ziskilis
+*Phone: +7 913 048 88 41
+*E-mail: kostens@bk.ru
+*Telegram: @ziskilis
 *** 
 ## Education
 * Reshetnev Siberian State University of Science and Technology
