@@ -4,7 +4,8 @@
 # Frontend developer 
 ***
 ## Experience:
-*  March 2022 - April 2022. EPAM Systems Inc. Laboratory: Student
+*  March 2022 - April 2022. EPAM Systems Inc. Laboratory: Student.
+
 Working in a team on the key functionality of the project, fixing existing bugs, covering the code with unit tests, working with git.
 ***
 ## Contact information:
