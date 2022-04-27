@@ -1,7 +1,6 @@
 # Konstantin Muratidi
-![profile pic](/523226980.jpeg "Мое фото")
 ***
-# Frontend developer 
+## Frontend developer 
 ***
 ## Experience:
 *  March 2022 - April 2022. **EPAM Systems Inc. Laboratory:** Student.
