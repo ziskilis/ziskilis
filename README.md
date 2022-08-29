@@ -29,4 +29,4 @@ Working in a team on the key functionality of the project, fixing existing bugs,
 * https://github.com/ziskilis/pockets
 ***
 ## Languages:
-* English - B1
+* English - B2
