@@ -26,7 +26,7 @@ Working in a team on the key functionality of the project, fixing existing bugs,
 
 ***
 # Code example:
-* https://github.com/ziskilis/pockets
+* https://github.com/ziskilis/practice-2022-project-react-Sibdev
 ***
 ## Languages:
 * English - B2
